@@ -1,0 +1,14 @@
+# Python virtual environments
+**/.venv/
+
+# Python generated files
+**/__pycache__/
+**/*.py[cod]
+
+# Environment variables and secrets
+**/.env
+
+# Local databases
+**/*.db
+**/*.db-shm
+**/*.db-wal
